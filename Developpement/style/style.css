@@ -1,0 +1,129 @@
+
+/*Header normal*/
+
+.header
+{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 100%;
+    height: 124px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+}
+.header .header-logo img
+{
+    position: absolute;
+    width: 74px;
+    height: 87px;
+    left: 29px;
+    top: 18px;
+}
+.header .header-button button
+{
+    position: absolute;
+    width: 150px;
+    height: 59px;
+        right: 25px;
+        top: 35px;
+    background: #57AB3F;
+    border-radius: 30px;
+    color:white;
+    box-shadow: none!important;
+    border:none;
+     
+}
+.header .header-button-op button
+{
+    position: absolute;
+    width: 150px;
+    height: 59px;
+    right: 225px;
+    top: 35px;
+    background: #57AB3F;
+    border-radius: 30px;
+    color:white;
+    box-shadow: none!important;
+    border:none;
+     
+}
+
+ 
+/******************************************************************************************************************************************/
+
+/*login*/
+.login-container  
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.login-container .login-container-form
+{
+     
+    width: 100%;
+    margin-left:100px;
+
+    margin-top:300px;
+    
+}
+.login-container .login-container-img 
+{
+    margin-top:240px;
+    width: 300px;
+   
+    
+ 
+}
+.login-container .login-container-img img
+{
+    margin-left:-300px;
+    width: 300px;
+    
+ 
+}
+.redirectLink
+{
+    color : #57AB3F;
+}
+.blank
+{
+    height:100px;
+    width:10px;
+
+     
+}
+
+/******************************************************************************************************************************************/
+
+/*index*/
+.classIndex
+{
+    margin-top: 300px;
+}
+.classIndex li 
+{
+    list-style: none;
+}
+.button-color 
+{
+    background-color: #57AB3F!important;
+    border:none!important;
+     
+}
+
+/******************************************************************************************************************************************/
+
+/*consultation*/
+
+.consultation-form
+{
+    margin-top: 180px!important;
+    position: absolute;
+    width:100%!important;
+
+}
+
+

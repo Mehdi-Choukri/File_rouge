@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{59588803-77C3-424D-B332-1460B01C42A0}" Name="Données conceptuelles_File_Rouge" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Données conceptuelles_File_Rouge_v2.mcd"/>
+		<Model Expanded="Yes" ID="{BFC7B638-1738-41C9-AA9A-930887E43762}" Name="Données conceptuelles_File_Rouge" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="MLD_conceptuelles_File_Rouge.mld"/>
+		<Model Expanded="Yes" ID="{06BD13F6-A1FA-43EC-B230-AAAAAC65DE04}" Name="Données conceptuelles_File_Rouge" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MPD_File_Rouge.mpd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
